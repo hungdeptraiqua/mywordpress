@@ -9,8 +9,8 @@
 
 <channel>
 	<title>buithehung</title>
-	<atom:link href="https://https://hungdeptraiqua.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://hungdeptraiqua.github.io/mywordpress</link>
+	<atom:link href="https://hungdeptraiqua.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hungdeptraiqua.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Mon, 05 Sep 2022 14:10:13 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/</link>
-					<comments>https://https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/#comments</comments>
+		<link>https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/</link>
+					<comments>https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[501210135]]></dc:creator>
 		<pubDate>Mon, 05 Sep 2022 14:10:13 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://https://hungdeptraiqua.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://hungdeptraiqua.github.io/mywordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hungdeptraiqua.github.io/mywordpress/2022/09/05/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
