@@ -12,7 +12,7 @@
 	<atom:link href="https://hungdeptraiqua.github.io/mywordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://hungdeptraiqua.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 05 Oct 2022 08:14:48 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Oct 2022 07:05:04 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,42 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Famer</title>
+		<link>https://hungdeptraiqua.github.io/mywordpress/san-pham/famer/</link>
+					<comments>https://hungdeptraiqua.github.io/mywordpress/san-pham/famer/#respond</comments>
+		
+		<dc:creator><![CDATA[501210135]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 07:05:04 +0000</pubDate>
+				<guid isPermaLink="false">https://hungdeptraiqua.github.io/mywordpress/?post_type=product&#038;p=317</guid>
+
+					<description><![CDATA[usce at scelerisque massa, non convallis risus. Mauris auctor vestibulum ipsum, at convallis ex aliquam nec. Donec quis]]></description>
+										<content:encoded><![CDATA[<p>usce at scelerisque massa, non convallis risus. Mauris auctor vestibulum ipsum, at convallis ex aliquam nec. Donec quis</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hungdeptraiqua.github.io/mywordpress/san-pham/famer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Salad</title>
+		<link>https://hungdeptraiqua.github.io/mywordpress/san-pham/salad/</link>
+					<comments>https://hungdeptraiqua.github.io/mywordpress/san-pham/salad/#respond</comments>
+		
+		<dc:creator><![CDATA[501210135]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 06:56:48 +0000</pubDate>
+				<guid isPermaLink="false">https://hungdeptraiqua.github.io/mywordpress/?post_type=product&#038;p=307</guid>
+
+					<description><![CDATA[Compellingly restore diverse information and quality initiatives. Enthusiastically brand team building methodologies without equity invested users]]></description>
+										<content:encoded><![CDATA[<p>Compellingly restore diverse information and quality initiatives. Enthusiastically brand team building methodologies without equity invested users</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hungdeptraiqua.github.io/mywordpress/san-pham/salad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Cabbage</title>
 		<link>https://hungdeptraiqua.github.io/mywordpress/san-pham/cabbage/</link>
 					<comments>https://hungdeptraiqua.github.io/mywordpress/san-pham/cabbage/#respond</comments>
